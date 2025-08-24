@@ -49,7 +49,7 @@ A fully responsive profile creation page built using semantic HTML5 and CSS with
 
 ## Contact
 
-For any questions, reach out via [your email or GitHub profile link].
+For any questions, reach out via anupyadav0890@gmail.com.
 
 ---
 
